@@ -34,6 +34,9 @@ When the user starts the app, they see the expenses page, where they can view al
 
 To delete an expense, the user can swipe it left or right. If they regret the deletion, an 'Undo' button appears for 5 seconds to undo the action. To edit an expense, the user clicks on it, opening a new window where they can enter new information. They can save or cancel the changes and return to the expenses page to view the updated information and chart.
 
+![bilde](https://github.com/olekristianhd/ExpenseTracherApp/assets/99326286/f5843410-71e6-45b8-a43e-9a7599b2d3f1)
+
+
 ## My Added Functionality
 
 I added the functionality to edit expenses. I created a new widget called `editExpense`, similar to `newExpense`. I changed the button text in `newExpense` to 'Create' and in `editExpense` to 'Save' to differentiate them for the user.
